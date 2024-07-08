@@ -14,7 +14,7 @@ A Convolutional Neural Network (CNN) based image classifier for classifying diff
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/leaf-classifier.git
+    git clone https://github.com/aunraza-dev/leaf-classifier.git
     cd leaf-classifier
     ```
 
